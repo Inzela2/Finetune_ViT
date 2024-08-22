@@ -5,9 +5,7 @@ This project is a Bird Species Detector that has ued ViT which has been fine tun
 
 Fine-tuning a model on bird species contributes to the conservation of biodiversity, helps in monitoring ecological changes, and aids scientific research by providing accurate, scalable tools for species identification, thereby supporting global efforts to protect wildlife and ecosystems.
 
-
-
-
+![Bird Species Detector Interface](4.JPG)
 
 
 
